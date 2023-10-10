@@ -1,0 +1,121 @@
+{
+    "default": {
+        "name": "default",
+        "scheme": [
+            "#376EA5",
+            "#5AA5D7",
+            "#DCEBC3",
+            "#A0C382",
+            "#C5CD3A",
+            "#086876",
+            "#FAC846",
+            "#FFD264",
+            "#FFF0C8",
+            "#FFCDAA",
+            "#FF8764",
+            "#F06E4B",
+            "#A0A5A0",
+            "#D0D0D0",
+            "#E1E6E6",
+            "#BE6E82",
+            "#CF9BBD",
+            "#EBCDC3",
+            "#784B5F"
+        ]
+    },
+    "paletteCold": {
+        "name": "paletteCold",
+        "scheme": [
+            "#376EA5",
+            "#5AA5D7",
+            "#97A2CF",
+            "#B977AC",
+            "#8B2F8A",
+            "#D09ECA",
+            "#2857A4",
+            "#5F7896",
+            "#CA498C",
+            "#F0BDCA",
+            "#E1E6E6",
+            "#6E5A7D",
+            "#9BD2D2",
+            "#9FC6E2",
+            "#BE6E82",
+            "#CF9BBD",
+            "#EBCDC3",
+            "#A0A5A0",
+            "#A5B4C3"
+        ]
+    },
+    "typeDiminish": {
+        "name": "typeDiminish",
+        "scheme": [
+            "#3C5A82",
+            "#233C4B",
+            "#550A0F",
+            "#464646",
+            "#93258E",
+            "#BEBEBE",
+            "#E1E6E6",
+            "#F1F1F1",
+            "#CDDCDC",
+            "#D0D0D0",
+            "#A0A5A0"
+        ]
+    },
+    "paletteGreen": {
+        "name": "paletteGreen",
+        "scheme": [
+            "#086876",
+            "#018881",
+            "#7BAF8A",
+            "#879673",
+            "#B6C13D",
+            "#E6FAC3"
+        ]
+    },
+    "paletteRed": {
+        "name": "paletteRed",
+        "scheme": [
+            "#3C0000",
+            "#782D2D",
+            "#B44641",
+            "#B95F69",
+            "#C87D5A",
+            "#EBCDC3"
+        ]
+    },
+    "paletteBlue": {
+        "name": "paletteBlue",
+        "scheme": [
+            "#3C5A82",
+            "#376EA5",
+            "#5AA5D7",
+            "#96C3D7",
+            "#82D2F5",
+            "#E1FAFA"
+        ]
+    },
+    "paletteOrange": {
+        "name": "paletteOrange",
+        "scheme": [
+            "#F06E4B",
+            "#FF9B46",
+            "#FF8764",
+            "#FAAF96",
+            "#F5A05F",
+            "#FFCDAA"
+        ]
+    },
+    "palettePink": {
+        "name": "palettePink",
+        "scheme": [
+            "#fdcbc9",
+            "#ddaba9",
+            "#ffc0cb",
+            "#e5acb6",
+            "#b2868e",
+            "#cc99a2"
+        ]
+    }
+}

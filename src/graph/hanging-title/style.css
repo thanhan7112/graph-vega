@@ -1,0 +1,25 @@
+.hanging-title {
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #ffffffdd;
+    z-index: 1000;
+    border-bottom-right-radius: 0.5rem;
+    line-height: 1.5;
+    max-width: 100%;
+}
+
+.hanging-title .hanging-title-value {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.hanging-title .hanging-title-tool {
+    align-self: center;
+    padding-left: 1px;
+}
+
+.hanging-title .hanging-title-tool:empty {
+    padding-left: 0;
+}
